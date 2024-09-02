@@ -296,6 +296,256 @@
         </div>
       </nav>
     </div>
+    <div class="flex flex-col w-full mt-3">
+      <div class="w-full">
+        <div class="flex flex-row">
+          <div class="w-1/6 md:w-1/7 px-2 py-2 bg-[#3A3698] text-white">
+            <span class="font-[400]">শিরোনাম:</span>
+          </div>
+          <div class="w-5/6 md:w-11/12 px-2 py-2 bg-[#F1F7FB]">
+            <marquee
+              direction="left"
+              scrollamount="4"
+              onmouseover="this.stop()"
+              onmouseout="this.start()"
+              class="flex items-center"
+            >
+              <!-- <div aria-hidden="true" class="flex text-center mx-3">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 448 512"
+                  class="w-5"
+                >
+                  <path
+                    fill="#d30d0d"
+                    d="M0 96C0 60.7 28.7 32 64 32H384c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96z"
+                  />
+                </svg>
+              </div> -->
+              <a href="" class="text-black text-[16px]"
+                >কুড়িগ্রামে বৈষম্য বিরোধী ছাত্র আন্দোলনে আহত আশিক চিকিৎসাধীন
+                অবস্থায় ঢাকায় মারা গেছে</a
+              >
+              <i class="fa fa-square mx-2" aria-hidden="true"></i>
+              <a href="" class="text-black text-[16px]"
+                >নগরীতে প্রতারণার জেরে কথিত সাংবাদিক চপলকে চড়-থাপ্পড়, ছড়াচ্ছে
+                অপপ্রচার</a
+              >
+              <i class="fa fa-square mx-2" aria-hidden="true"></i>
+              <a href="" class="text-black text-[16px]"
+                >নাগরিক সনদ অনুযায়ী সেবা প্রদান, প্রোপাগাণ্ডা ছড়ানোর অভিযোগ</a
+              >
+              <i class="fa fa-square mx-2" aria-hidden="true"></i>
+              <a href="" class="text-black text-[16px]"
+                >প্রতিশোধ নয় দেশকে নতুন ভাবে গড়তে চাই জামায়াতে ইসলামী</a
+              >
+              <i class="fa fa-square mx-2" aria-hidden="true"></i>
+              <a href="" class="text-black text-[16px]"
+                >রৌমারীতে যুব অধিকার পরিষদের ৪র্থ প্রতিষ্ঠা বার্ষিকী পালিত</a
+              >
+              <i class="fa fa-square mx-2" aria-hidden="true"></i>
+              <a href="" class="text-black text-[16px]"
+                >পশ্চিমাঞ্চল রেলওয়ে শ্রমিকলীগের শতাধিক নেতাকর্মী কর্মস্থলে
+                অনুপস্থিত</a
+              >
+              <i class="fa fa-square mx-2" aria-hidden="true"></i>
+              <a href="" class="text-black text-[16px]"
+                >রৌমারীতে জামায়াতের কর্মী সম্মেলন অনুষ্ঠিত</a
+              >
+              <i class="fa fa-square mx-2" aria-hidden="true"></i>
+              <a href="" class="text-black text-[16px]"
+                >রৌমারীতে সাংবাদিকের সাথে অসৌজন্য আচরণে বিজিবি ক্লোজ</a
+              >
+              <i class="fa fa-square mx-2" aria-hidden="true"></i>
+              <a href="" class="text-black text-[16px]"
+                >রৌমারীর সীমান্তে বিজিবি ও ছাত্র-জনতা রাস্তা সংস্কার সর্ব মহলে
+                প্রশংসা</a
+              >
+              <i class="fa fa-square mx-2" aria-hidden="true"></i>
+              <a href="" class="text-black text-[16px]"
+                >রৌমারীতে স্বাধীন প্রশাসন উদ্বোধন দিবস পালিত</a
+              >
+            </marquee>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <!-- <div>
+      <div class="mt-6">
+        <div
+          class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+        >
+        
+          <div
+            class="siam w-1/6 md:w-1/7 px-2 py-2 inline-block bg-[#cc0000] text-white"
+          >
+            <a
+              href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+              class="flex items-center text-white"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 448 512"
+                class="w-5 h-5 mr-2"
+                fill="currentColor"
+              >
+                <path
+                  d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+                />
+              </svg>
+              সারাদেশ
+            </a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="mt-3">
+        <div class="container mx-auto p-4">
+          <div class="flex grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-6">
+           
+            <div
+              class="max-w-sm mx-auto bg-white shadow-md rounded-lg overflow-hidden"
+            >
+              <div
+                class="h-48 bg-cover bg-center"
+                style="
+                  background-image: url('https://royelnews.com/wp-content/uploads/2024/09/inbound3425044609959334860-600x337.jpg');
+                "
+              ></div>
+              <div class="p-4">
+                <h4
+                  class="text-lg font-semibold text-gray-800 hover:text-gray-600"
+                >
+                  <a
+                    href="https://royelnews.com/%e0%a6%95%e0%a7%81%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a7%87-%e0%a6%ac%e0%a7%88%e0%a6%b7%e0%a6%ae%e0%a7%8d%e0%a6%af-%e0%a6%ac%e0%a6%bf%e0%a6%b0%e0%a7%8b%e0%a6%a7/"
+                  >
+                    কুড়িগ্রামে বৈষম্য বিরোধী ছাত্র আন্দোলনে আহত আশিক চিকিৎসাধীন
+                    অবস্থায় ঢাকায় মারা গেছে
+                  </a>
+                </h4>
+              </div>
+            </div>
+
+            
+            <div
+              class="max-w-sm mx-auto bg-white shadow-md rounded-lg overflow-hidden"
+            >
+              <div
+                class="h-48 bg-cover bg-center"
+                style="
+                  background-image: url('https://royelnews.com/wp-content/uploads/2024/09/IMG-20240901-WA0279-600x337.jpg');
+                "
+              ></div>
+              <div class="p-4">
+                <h4
+                  class="text-lg font-semibold text-gray-800 hover:text-gray-600"
+                >
+                  নগরীতে প্রতারণার জেরে কথিত সাংবাদিক চপলকে চড়-থাপ্পড়, ছড়াচ্ছে
+                  অপপ্রচার
+                </h4>
+              </div>
+            </div>
+
+         
+            <div
+              class="max-w-sm mx-auto bg-white shadow-md rounded-lg overflow-hidden"
+            >
+              <div
+                class="h-48 bg-cover bg-center"
+                style="
+                  background-image: url('https://royelnews.com/wp-content/uploads/2024/09/received_1954492561735802-600x337.jpeg');
+                "
+              ></div>
+              <div class="p-4">
+                <h4
+                  class="text-lg font-semibold text-gray-800 hover:text-gray-600"
+                >
+                  নাগরিক সনদ অনুযায়ী সেবা প্রদান, প্রোপাগাণ্ডা ছড়ানোর অভিযোগ
+                </h4>
+              </div>
+            </div>
+
+          
+            <div
+              class="max-w-sm mx-auto bg-white shadow-md rounded-lg overflow-hidden"
+            >
+              <div
+                class="h-48 bg-cover bg-center"
+                style="
+                  background-image: url('https://royelnews.com/wp-content/uploads/2024/08/IMG-725101963-600x337.jpg');
+                "
+              ></div>
+              <div class="p-4">
+                <h4
+                  class="text-lg font-semibold text-gray-800 hover:text-gray-600"
+                >
+                  প্রতিশোধ নয় দেশকে নতুন ভাবে গড়তে চাই জামায়াতে ইসলামী
+                </h4>
+              </div>
+            </div>
+
+            
+            <div
+              class="max-w-sm mx-auto bg-white shadow-md rounded-lg overflow-hidden"
+            >
+              <div
+                class="h-48 bg-cover bg-center"
+                style="
+                  background-image: url('https://royelnews.com/wp-content/uploads/2024/08/Messenger_creation_E99E5FA5-0265-4295-9E75-A6A7F7189730-600x324.jpeg');
+                "
+              ></div>
+              <div class="p-4">
+                <h4
+                  class="text-lg font-semibold text-gray-800 hover:text-gray-600"
+                >
+                  পশ্চিমাঞ্চল রেলওয়ে শ্রমিকলীগের শতাধিক নেতাকর্মী কর্মস্থলে
+                  অনুপস্থিত
+                </h4>
+              </div>
+            </div>
+
+            
+            <div
+              class="max-w-sm mx-auto bg-white shadow-md rounded-lg overflow-hidden"
+            >
+              <div
+                class="h-48 bg-cover bg-center"
+                style="
+                  background-image: url('https://royelnews.com/wp-content/uploads/2024/08/download-600x337.jpeg');
+                "
+              ></div>
+              <div class="p-4">
+                <h4
+                  class="text-lg font-semibold text-gray-800 hover:text-gray-600"
+                >
+                  রৌমারীতে স্বাধীন প্রশাসন উদ্বোধন দিবস পালিত
+                </h4>
+              </div>
+            </div>
+
+            
+            <div
+              class="max-w-sm mx-auto bg-white shadow-md rounded-lg overflow-hidden"
+            >
+              <div
+                class="h-48 bg-cover bg-center"
+                style="
+                  background-image: url('https://royelnews.com/wp-content/uploads/2024/08/IMG-20240827-WA0067-600x337.jpg');
+                "
+              ></div>
+              <div class="p-4">
+                <h4
+                  class="text-lg font-semibold text-gray-800 hover:text-gray-600"
+                >
+                  রাজশাহীতে জনস্বাস্থ্য কর্মকর্তার বদলি বাণিজ্য
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
   </div>
 </template>
 
@@ -305,4 +555,16 @@
 .menu-main-menu {
   font-size: 16px;
 }
+
+/* .siam {
+  color: #fff;
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  margin: 0px 0 0 0 !important;
+  background: #cc0000;
+  padding: 8px 20px;
+} */
 </style>
