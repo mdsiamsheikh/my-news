@@ -78,7 +78,7 @@
           </p>
         </div>
         <div class="text-left">
-          <p class="text-gray-400">
+          <p class="text-gray-400 text-[16px]">
             ডিজাইন ও কারিগরি সহযোগিতায়:
             <a
               href=""
