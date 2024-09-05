@@ -1,7 +1,7 @@
 <template>
   <!--===================  footer ====================-->
   <div>
-    <div class="bg-[#4F4F4F] h-[244px] text-white py-7 mt-3">
+    <div class="bg-[#4F4F4F] h-auto text-white py-7 mt-3">
       <div
         class="container mx-auto flex flex-wrap justify-between items-center border-b border-gray-700 pb-4"
       >

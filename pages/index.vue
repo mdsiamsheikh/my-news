@@ -559,6 +559,7 @@
     </div>
 
     <!-- Wrapper for slides -->
+
     <!--  -->
     <div class="section_two mx-auto px-4 py-8">
       <div class="max-w-7xl mx-auto">
@@ -631,8 +632,8 @@
         </div>
       </div>
     </div>
-    <!-- catagory three -->
 
+    <!-- catagory three -->
     <div class="flex flex-wrap -mx-2">
       <div class="w-full md:w-1/3 px-2">
         <div class="bg-white shadow-lg rounded-lg overflow-hidden">
@@ -896,25 +897,25 @@
                 </a>
               </div>
             </div>
-          </div>
-          <div class="bg-gray-100 p-4 mt-5">
-            <h4
-              class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
-            >
-              <a href="" class="flex items-center space-x-1">
-                <span>আরো সংবাদ..</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 512 512"
-                  class="w-3"
-                >
-                  <path
-                    fill="currentColor"
-                    d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
-                  />
-                </svg>
-              </a>
-            </h4>
+            <div class="bg-gray-100 p-4">
+              <h4
+                class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
+              >
+                <a href="" class="flex items-center space-x-1">
+                  <span>আরো সংবাদ..</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    class="w-3"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                    />
+                  </svg>
+                </a>
+              </h4>
+            </div>
           </div>
         </div>
 
@@ -1031,26 +1032,26 @@
                   </a>
                 </div>
               </div>
-            </div>
-          </div>
-          <div class="bg-gray-100 p-4">
-            <h4
-              class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
-            >
-              <a href="" class="flex items-center space-x-1">
-                <span>আরো সংবাদ..</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 512 512"
-                  class="w-3"
+              <div class="bg-gray-100 p-4">
+                <h4
+                  class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
                 >
-                  <path
-                    fill="currentColor"
-                    d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
-                  />
-                </svg>
-              </a>
-            </h4>
+                  <a href="" class="flex items-center space-x-1">
+                    <span>আরো সংবাদ..</span>
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 512 512"
+                      class="w-3"
+                    >
+                      <path
+                        fill="currentColor"
+                        d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                      />
+                    </svg>
+                  </a>
+                </h4>
+              </div>
+            </div>
           </div>
         </div>
         <!-- step three -->
@@ -1165,36 +1166,652 @@
                   </a>
                 </div>
               </div>
-            </div>
-          </div>
-          <div class="bg-gray-100 p-4">
-            <h4
-              class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
-            >
-              <a href="" class="flex items-center space-x-1">
-                <span>আরো সংবাদ..</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 512 512"
-                  class="w-3"
+              <div class="bg-gray-100 p-4">
+                <h4
+                  class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
                 >
-                  <path
-                    fill="currentColor"
-                    d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
-                  />
-                </svg>
-              </a>
-            </h4>
+                  <a href="" class="flex items-center space-x-1">
+                    <span>আরো সংবাদ..</span>
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 512 512"
+                      class="w-3"
+                    >
+                      <path
+                        fill="currentColor"
+                        d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                      />
+                    </svg>
+                  </a>
+                </h4>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- Nav tabs -->
+    <!-- Tailwind  with Banner Ads -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-3">
+      <!-- Left banner ad -->
+      <div class="flex justify-center md:justify-start py-4 px-4">
+        <img
+          class="w-full md:max-w-md object-cover"
+          src="https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg"
+          alt="Banner Ad"
+        />
+      </div>
+
+      <!-- Right banner ad -->
+      <div class="flex justify-center md:justify-end py-4 px-4">
+        <img
+          class="w-full h-auto md:max-w-md object-cover"
+          src="https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg"
+          alt="Banner Ad"
+        />
+      </div>
+    </div>
+    <!-- বিনোদন -->
+    <div class="mt-3">
+      <div
+        class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+      >
+        <div
+          class="siam w-1/6 md:w-1/7 px-2 py-2 inline-block bg-[#cc0000] text-white"
+        >
+          <a
+            href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+            class="flex items-center text-white"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 448 512"
+              class="w-5 h-5 mr-2"
+              fill="currentColor"
+            >
+              <path
+                d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+              />
+            </svg>
+            বিনোদন
+          </a>
+        </div>
+      </div>
+    </div>
+    <!--বিনোদন  -->
+    <NewsSlider />
+
+    <!-- Tailwind CSS  with Ads -->
+    <div class="flex flex-wrap justify-between mt-2">
+      <div class="w-full sm:w-1/2 p-2">
+        <div class="bg-white">
+          <img
+            class="w-full h-auto"
+            src="https://royelnews.com/wp-content/uploads/2023/10/biggapon-1.gif"
+            alt=""
+          />
+        </div>
+      </div>
+      <div class="w-full sm:w-1/2 p-2">
+        <div class="bg-white">
+          <img
+            class="w-full h-auto"
+            src="https://royelnews.com/wp-content/uploads/2023/10/biggapon-1.gif"
+            alt=""
+          />
+        </div>
+      </div>
+    </div>
+    <!-- রাজনীতি  -->
+    <div class="flex gap-4">
+      <!-- step one -->
+      <div class="flex flex-col md:w-1/3">
+        <!-- Category Title -->
+        <div class="mt-3">
+          <div
+            class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+          >
+            <div
+              class="siam w-1/6 md:w-1/2 px-2 py-2 inline-block bg-[#cc0000] text-white"
+            >
+              <a
+                href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+                class="flex items-center text-white"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 448 512"
+                  class="w-5 h-5 mr-2"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+                  />
+                </svg>
+                রাজনীতি
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Article Box -->
+        <div class="shadow-lg mt-3">
+          <!-- Image -->
+          <div class="overflow-hidden">
+            <a href="">
+              <img
+                class="w-full h-auto"
+                src="https://royelnews.com/wp-content/uploads/2024/09/received_2866279110191873-600x337.jpeg"
+                alt=""
+              />
+            </a>
+          </div>
+
+          <!-- Article Content -->
+          <div class="p-4 shadow-lg bg-white rounded-b-lg">
+            <h4 class="text-[16px] font-bold mb-2 border-b pb-2">
+              <a href="" class="text-gray-500 hover:text-blue-800"
+                >বৈষম্যহীন, নিরাপদ, মানবিক বাংলাদেশ গড়ার প্রত্যয়ে জাতীয়তাবাদী
+                যুবদলের মতবিনিময় সভা অনুষ্ঠিত</a
+              >
+            </h4>
+
+            <!-- Small Image and Title -->
+            <div class="flex items-center mt-4 border-t pt-4">
+              <a href="" class="flex items-center space-x-2">
+                <img
+                  class="w-1/3 h-auto"
+                  src="https://royelnews.com/wp-content/uploads/2024/08/IMG-725101963-600x337.jpg"
+                  alt=""
+                />
+                <h4 class="text-sm font-medium text-black hover:text-red-600">
+                  প্রতিশোধ নয় দেশকে নতুন ভাবে গড়তে চাই জামায়াতে ইসলামী
+                </h4>
+              </a>
+            </div>
+            <div class="flex items-center mt-4 border-t pt-4">
+              <a href="" class="flex items-center space-x-2">
+                <img
+                  class="w-1/3 h-auto"
+                  src="https://royelnews.com/wp-content/uploads/2024/08/IMG-20240819-WA0070-600x337.jpg"
+                  alt=""
+                  decoding="async"
+                  srcset="
+                    https://royelnews.com/wp-content/uploads/2023/01/3-Copy-638-700x390-1.jpg         700w,
+                    https://royelnews.com/wp-content/uploads/2023/01/3-Copy-638-700x390-1-300x167.jpg 300w
+                  "
+                  sizes="(max-width: 600px) 100vw, 600px"
+                />
+                <h4 class="text-sm font-medium text-black hover:text-red-600">
+                  রাজশাহীতে জাঁকজমক ভাবে স্বেচ্ছাসেবক দলের ৪৪তম প্রতিষ্ঠা
+                  বার্ষিকী পালন
+                </h4>
+              </a>
+            </div>
+
+            <div class="flex items-center mt-4 border-t pt-4">
+              <a href="" class="flex items-center space-x-2">
+                <img
+                  class="w-1/3 h-auto"
+                  src="https://royelnews.com/wp-content/uploads/2024/08/IMG-20240817-WA0071-600x337.jpg"
+                  alt=""
+                  decoding="async"
+                  srcset="
+                    https://royelnews.com/wp-content/uploads/2023/01/3-Copy-637-700x390-1.jpg         700w,
+                    https://royelnews.com/wp-content/uploads/2023/01/3-Copy-637-700x390-1-300x167.jpg 300w
+                  "
+                  sizes="(max-width: 600px) 100vw, 600px"
+                />
+                <h4 class="text-sm font-medium text-black hover:text-red-600">
+                  রাজশাহীতে ভূমি দখল-চাঁদাবাজিতে জড়িত হলে আইনে সোপর্দ করুন- মিনু
+                </h4>
+              </a>
+            </div>
+
+            <div class="flex items-center mt-4 border-t pt-4">
+              <a href="" class="flex items-center space-x-2">
+                <img
+                  class="w-1/3 h-auto"
+                  src="https://royelnews.com/wp-content/uploads/2024/08/InShot_20240814_193646461-600x337.jpg"
+                  alt=""
+                  decoding="async"
+                />
+                <h4 class="text-sm font-medium text-black hover:text-red-600">
+                  ছাত্রদের গুম &#8211; খুন ও খুনি হাসিনার বিচারের দাবিতে রাজশাহী
+                  যুবদলের বিক্ষোভ মিছিল ও অবস্থান কর্মসূচি
+                </h4>
+              </a>
+            </div>
+            <div class="bg-gray-100 p-4 mt-5">
+              <h4
+                class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
+              >
+                <a href="" class="flex items-center space-x-1">
+                  <span>আরো সংবাদ..</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    class="w-3"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                    />
+                  </svg>
+                </a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- step two -->
+      <div class="md:w-1/3 sm:w-1/3">
+        <div class="mt-3">
+          <div
+            class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+          >
+            <div
+              class="siam w-1/6 md:w-1/2 px-2 py-2 inline-block bg-[#cc0000] text-white"
+            >
+              <a
+                href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+                class="flex items-center text-white"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 448 512"
+                  class="w-5 h-5 mr-2"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+                  />
+                </svg>
+                লাইফস্টাইল
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Article Section -->
+        <div class="shadow-lg bg-white rounded-b-lg">
+          <div class="mb-4 mt-3">
+            <a href="">
+              <img
+                src="https://royelnews.com/wp-content/uploads/2023/10/395711786_719079943577963_376892770646993724_n-1-600x337.jpg"
+                alt="Main Article Image"
+                class="w-full h-auto"
+              />
+            </a>
+            <div class="p-4">
+              <h4 class="text-[16px] font-bold mb-2 border-b pb-2">
+                <a href="" class="text-gray-500 hover:text-blue-800">
+                  উলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা, শারোদীয়
+                  দূর্গা উৎসব সম্পন্ন।
+                </a>
+              </h4>
+
+              <!-- Small Images Section -->
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-639-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    রাশিয়া ছেড়ে পালিয়েছেন সাবেক ওয়াগনার কমান্ডার
+                  </h4>
+                </a>
+              </div>
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-638-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    ৬ দশকের মধ্যে সবচেয়ে কম জন্মহার চীনে!
+                  </h4>
+                </a>
+              </div>
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-637-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    দ্বিতীয় বিয়ে করেছেন দাউদ ইব্রাহিম, স্ত্রী পাকিস্তানি’
+                  </h4>
+                </a>
+              </div>
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2022/12/322625132_719526586261443_2986189997021982751_n-600x337.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    রৌমারীতে আই,এফ,আই, সি, ব্যাংক উদ্বোধন
+                  </h4>
+                </a>
+              </div>
+            </div>
+            <div class="bg-gray-100 p-4">
+              <h4
+                class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
+              >
+                <a href="" class="flex items-center space-x-1">
+                  <span>আরো সংবাদ..</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    class="w-3"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                    />
+                  </svg>
+                </a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- step three -->
+      <div class="md:w-1/3 sm:w-1/3">
+        <!-- Category Title -->
+        <div class="mt-3">
+          <div
+            class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+          >
+            <div
+              class="siam w-1/6 md:w-1/3 px-2 py-2 inline-block bg-[#cc0000] text-white"
+            >
+              <a
+                href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+                class="flex items-center text-white"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 448 512"
+                  class="w-5 h-5 mr-2"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+                  />
+                </svg>
+                চাকরি
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Article Section -->
+        <div class="shadow-lg bg-white rounded-b-lg">
+          <div class="mb-4 mt-3">
+            <a href="">
+              <img
+                src="https://royelnews.com/wp-content/uploads/2023/10/395711786_719079943577963_376892770646993724_n-1-600x337.jpg"
+                alt="Main Article Image"
+                class="w-full h-auto"
+              />
+            </a>
+            <div class="p-4">
+              <h4 class="text-[16px] font-bold mb-2 border-b pb-2">
+                <a href="" class="text-gray-500 hover:text-blue-800">
+                  উলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা, শারোদীয়
+                  দূর্গা উৎসব সম্পন্ন।
+                </a>
+              </h4>
+
+              <!-- Small Images Section -->
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/10/inbound8594950081661160676.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    উলিপুরে হিন্দু মহাজোটের বিভিন্ন কর্মসূচি ও সহযোগীতায় শারদীয়
+                    দূর্গা উৎসব পালিত।
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-639-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    রাশিয়া ছেড়ে পালিয়েছেন সাবেক ওয়াগনার কমান্ডার
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-638-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    ৬ দশকের মধ্যে সবচেয়ে কম জন্মহার চীনে!
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-637-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    দ্বিতীয় বিয়ে করেছেন দাউদ ইব্রাহিম, স্ত্রী পাকিস্তানি’
+                  </h4>
+                </a>
+              </div>
+            </div>
+            <div class="bg-gray-100 p-4">
+              <h4
+                class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
+              >
+                <a href="" class="flex items-center space-x-1">
+                  <span>আরো সংবাদ..</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    class="w-3"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                    />
+                  </svg>
+                </a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- step four -->
+      <div class="md:w-1/3 sm:w-1/3">
+        <!-- Category Title -->
+        <div class="mt-3">
+          <div
+            class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+          >
+            <div
+              class="siam w-1/6 md:w-[150px] px-2 py-2 inline-block bg-[#cc0000] text-white"
+            >
+              <a
+                href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+                class="flex items-center text-white"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 448 512"
+                  class="w-5 h-5 mr-2"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+                  />
+                </svg>
+                শিল্প ও সাহিত্য
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Article Section -->
+        <div class="shadow-lg bg-white rounded-b-lg">
+          <div class="mb-4 mt-3">
+            <a href="">
+              <img
+                src="https://royelnews.com/wp-content/uploads/2024/07/inbound9009272998494483268-600x337.jpg"
+                alt="Main Article Image"
+                class="w-full h-auto"
+              />
+            </a>
+            <div class="p-4">
+              <h4 class="text-[16px] font-bold mb-2 border-b pb-2">
+                <a href="" class="text-gray-500 hover:text-blue-800">
+                  কুড়িগ্রামে দৈনিক নতুন সময়ের মত বিনিময়সভা
+                </a>
+              </h4>
+
+              <!-- Small Images Section -->
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2024/05/169403577_2887668758184488_3514495690456674687_n-600x337.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    কুড়িগ্রাম জেলার শ্রেষ্ঠ শ্রেণি শিক্ষক নির্বাচিত হলেন আমিনুল
+                    ইসলাম বি.এসসি
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2024/02/received_7083083735137742-600x337.jpeg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    দৈনিক নাগরিক ভাবনা পত্রিকার ৪র্থ প্রতিষ্ঠা বার্ষিকী উদযাপন
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/11/received_1007607633830713-600x337.jpeg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    ঢাকা আহ্ছানিয়া মিশনের উদ্যোগে বেনাপোলে বিশ্ব টয়লেট দিবস ২০২৩
+                    উদযাপন
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/10/395711786_719079943577963_376892770646993724_n-1-600x337.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    উলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা, শারোদীয়
+                    দূর্গা উৎসব সম্পন্ন।
+                  </h4>
+                </a>
+              </div>
+            </div>
+            <div class="bg-gray-100 p-4">
+              <h4
+                class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
+              >
+                <a href="" class="flex items-center space-x-1">
+                  <span>আরো সংবাদ..</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    class="w-3"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                    />
+                  </svg>
+                </a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <!-- Tailwind CSS Navbar with Ads -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-3">
+      <!-- First ad -->
+      <div class="flex justify-center md:justify-start">
+        <img
+          class="w-full max-w-md object-contain"
+          src="https://royelnews.com/wp-content/uploads/2023/10/biggapon-1.gif"
+          alt="Ad Image"
+        />
+      </div>
+
+      <!-- Second ad -->
+      <div class="flex justify-center md:justify-end">
+        <img
+          class="w-full max-w-md object-contain"
+          src="https://royelnews.com/wp-content/uploads/2023/10/biggapon-1.gif"
+          alt="Ad Image"
+        />
+      </div>
+    </div>
   </div>
 </template>
 
 <script setup>
+import NewsSlider from "~/components/NewsSlider.vue";
 import { ref } from "vue";
 
 // Define your slides data
@@ -1242,6 +1859,8 @@ function nextSlide() {
   currentIndex.value =
     currentIndex.value < slides.value.length - 1 ? currentIndex.value + 1 : 0;
 }
+
+//
 </script>
 
 <style scoped>
