@@ -80,22 +80,21 @@ const newsItems = [
   {
     link: "https://royelnews.com/link1",
     image:
-      "https://royelnews.com/wp-content/uploads/2024/05/IMG-20240503-WA0011-600x337.jpg",
-    title: "রাজশাহীতে বিশ্ব মুক্ত গণমাধ্যম দিবস পালন",
-  },
-  {
-    link: "https://royelnews.com/link2",
-    image:
-      "https://royelnews.com/wp-content/uploads/2024/05/IMG-20240501-WA0038-600x337.jpg",
-    title:
-      "রাজশাহীতে জাতীয় দৈনিক মানবিক বাংলাদেশ পত্রিকার প্রতিষ্ঠা বার্ষিকী পালন",
-  },
-  {
-    link: "https://royelnews.com/link2",
-    image:
       "https://royelnews.com/wp-content/uploads/2023/10/395711786_719079943577963_376892770646993724_n-1-600x337.jpg",
     title:
       "উলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা, শারোদীয় দূর্গা উৎসব সম্পন্ন।",
+  },
+  {
+    link: "https://royelnews.com/link2",
+    image:
+      "https://royelnews.com/wp-content/uploads/2023/09/prothomalo-bangla_2021-11_8f79a823-5cec-48db-a67b-ef98317af490_P_1-600x337.webp",
+    title: "ফ্রান্সের প্রেসিডেন্ট আসছেন আজ, যা নিয়ে আলোচনা হতে পারে",
+  },
+  {
+    link: "https://royelnews.com/link2",
+    image:
+      "https://royelnews.com/wp-content/uploads/2023/01/5-4-700x390-1.jpeg",
+    title: "জাপানে দুই সপ্তাহে ৫ হাজার করোনা রোগীর মৃত্যু",
   },
   {
     link: "https://royelnews.com/link2",
@@ -117,21 +116,20 @@ const newsItems = [
   },
   {
     link: "https://royelnews.com/link2",
-    image:
-      "https://royelnews.com/wp-content/uploads/2023/01/8d46acaac5d4ea49698575b138b101ed-1-600x337.jpg",
-    title: "পরীমনির মামলার কার্যক্রম ৬ মাস স্থগিত",
+    image: "https://royelnews.com/wp-content/uploads/2023/01/64-600x337.png",
+    title: "ছুটিতে থাকা সহকর্মীকে বিরক্ত করলেই জরিমানা ১ লাখ রুপি",
   },
   {
     link: "https://royelnews.com/link2",
     image:
-      "https://royelnews.com/wp-content/uploads/2023/01/3-Copy-216-700x390-1-600x337.jpg",
-    title: "হঠাৎ কেন বৃন্দাবনে বিরাট-আনুশকা? ভিডিও ভাইরাল",
+      "https://royelnews.com/wp-content/uploads/2023/01/3-Copy-479-700x390-1-600x337.jpg",
+    title: "ন্যাটোর অনুচরে পরিণত হচ্ছে ইউরোপীয় ইউনিয়ন: রাশিয়া",
   },
   {
     link: "https://royelnews.com/link2",
     image:
-      "https://royelnews.com/wp-content/uploads/2023/01/resize-350x230x0x0-image-206026-1672902664.jpg",
-    title: "তবে কি একসঙ্গেই থাকছেন রাজ-পরী!",
+      "https://royelnews.com/wp-content/uploads/2023/01/3-Copy-330-700x390-1-600x337.jpg",
+    title: "রাত ৮টায় দোকান বন্ধ নিয়ে পাকিস্তানের মন্ত্রীর অদ্ভুত মন্তব্য",
   },
   // Add more news items here...
 ];

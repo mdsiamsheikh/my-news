@@ -1192,23 +1192,55 @@
     </div>
 
     <!-- Tailwind  with Banner Ads -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-3">
-      <!-- Left banner ad -->
-      <div class="flex justify-center md:justify-start py-4 px-4">
-        <img
-          class="w-full md:max-w-md object-cover"
-          src="https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg"
-          alt="Banner Ad"
-        />
+    <div class="flex flex-wrap mt-3">
+      <div class="w-full md:w-1/2 p-2">
+        <div class="bg-gray-100">
+          <div class="widget_area">
+            <div class="textwidget">
+              <p>
+                <img
+                  class="w-full h-auto"
+                  src="https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg"
+                  alt="Banner Ad"
+                  srcset="
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg          2330w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-300x50.jpg    300w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-1024x169.jpg 1024w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-768x127.jpg   768w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-1536x254.jpg 1536w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-2048x338.jpg 2048w
+                  "
+                  sizes="(max-width: 2330px) 100vw, 2330px"
+                />
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
 
-      <!-- Right banner ad -->
-      <div class="flex justify-center md:justify-end py-4 px-4">
-        <img
-          class="w-full h-auto md:max-w-md object-cover"
-          src="https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg"
-          alt="Banner Ad"
-        />
+      <div class="w-full md:w-1/2 p-2">
+        <div class="bg-gray-100">
+          <div class="widget_area">
+            <div class="textwidget">
+              <p>
+                <img
+                  class="w-full h-auto"
+                  src="https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg"
+                  alt="Banner Ad"
+                  srcset="
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg          2330w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-300x50.jpg    300w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-1024x169.jpg 1024w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-768x127.jpg   768w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-1536x254.jpg 1536w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-2048x338.jpg 2048w
+                  "
+                  sizes="(max-width: 2330px) 100vw, 2330px"
+                />
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <!-- বিনোদন -->
@@ -2326,6 +2358,204 @@
       </div>
     </div>
     <newSlider />
+    <!-- banner -->
+    <div class="flex flex-wrap">
+      <div class="w-full md:w-1/2 p-2">
+        <div class="bg-gray-100">
+          <div class="widget_area">
+            <div class="textwidget">
+              <p>
+                <img
+                  class="w-full h-auto"
+                  src="https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg"
+                  alt="Banner Ad"
+                  srcset="
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg          2330w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-300x50.jpg    300w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-1024x169.jpg 1024w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-768x127.jpg   768w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-1536x254.jpg 1536w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-2048x338.jpg 2048w
+                  "
+                  sizes="(max-width: 2330px) 100vw, 2330px"
+                />
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full md:w-1/2 p-2">
+        <div class="bg-gray-100">
+          <div class="widget_area">
+            <div class="textwidget">
+              <p>
+                <img
+                  class="w-full h-auto"
+                  src="https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg"
+                  alt="Banner Ad"
+                  srcset="
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd.jpg          2330w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-300x50.jpg    300w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-1024x169.jpg 1024w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-768x127.jpg   768w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-1536x254.jpg 1536w,
+                    https://royelnews.com/wp-content/uploads/2022/12/banner-ads-hostitbd-2048x338.jpg 2048w
+                  "
+                  sizes="(max-width: 2330px) 100vw, 2330px"
+                />
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- chakri -->
+    <div class="mt-6">
+      <div
+        class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+      >
+        <div
+          class="siam w-[104px] md:w-1/7 px-2 py-2 inline-block bg-[#cc0000] text-white"
+        >
+          <a
+            href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+            class="flex items-center text-white"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 448 512"
+              class="w-5 h-5 mr-2"
+              fill="currentColor"
+            >
+              <path
+                d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+              />
+            </svg>
+            চাকরি
+          </a>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <div class="flex flex-wrap">
+      <!-- First Column -->
+      <div class="w-full sm:w-1/4 p-2">
+        <!-- First News Item -->
+        <div class="bg-white shadow-md">
+          <div class="overflow-hidden">
+            <a href="">
+              <img
+                class="w-full h-auto"
+                src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-639-700x390-1.jpg"
+                alt="News Image 1"
+              />
+            </a>
+          </div>
+          <div class="p-4">
+            <h4 class="text-[16px] font-bold mb-2">
+              <a href="" class="text-gray-500 hover:text-blue-800"
+                >রাশিয়া ছেড়ে পালিয়েছেন সাবেক ওয়াগনার কমান্ডার</a
+              >
+            </h4>
+          </div>
+        </div>
+
+        <!-- Second News Item -->
+        <div class="bg-white shadow-md mt-4">
+          <div class="overflow-hidden">
+            <a href="">
+              <img
+                class="w-full h-auto"
+                src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-638-700x390-1.jpg"
+                alt="News Image 2"
+              />
+            </a>
+          </div>
+          <div class="p-4">
+            <h4 class="text-[16px] font-bold mb-2">
+              <a href="" class="text-gray-500 hover:text-blue-800"
+                >৬ দশকের মধ্যে সবচেয়ে কম জন্মহার চীনে!</a
+              >
+            </h4>
+          </div>
+        </div>
+      </div>
+
+      <!-- Second Column -->
+      <div class="w-full sm:w-1/2 p-2">
+        <div class="bg-white shadow-md">
+          <div class="overflow-hidden">
+            <a href="">
+              <img
+                class="w-full h-auto"
+                src="https://royelnews.com/wp-content/uploads/2023/10/395711786_719079943577963_376892770646993724_n-1-600x337.jpg"
+                alt="News Image 3"
+              />
+            </a>
+          </div>
+          <div class="p-4">
+            <h4 class="text-[18px] font-bold mb-2">
+              <a href="" class="text-gray-500 hover:text-red-800"
+                >উলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা, শারোদীয় দূর্গা
+                উৎসব সম্পন্ন।</a
+              >
+            </h4>
+            <p class="text-gray-700">
+              ২০ অক্টোউলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা, শারোদীয়
+              দূর্গা উৎসব সম্পন্ন। ২০ অক্টোবর ২০২৩ইং...
+              <a href="https://royelnews.com/your-link-3" class="text-blue-600"
+                >বিস্তারিত</a
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Third Column -->
+      <div class="w-full sm:w-1/4 p-2">
+        <!-- Fourth News Item -->
+        <div class="bg-white shadow-md">
+          <div class="overflow-hidden">
+            <a href="">
+              <img
+                class="w-full h-auto"
+                src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-637-700x390-1.jpg"
+                alt="News Image 4"
+              />
+            </a>
+          </div>
+          <div class="p-4">
+            <h4 class="text-[16[px]] font-bold mb-2">
+              <a href="" class="text-gray-500 hover:text-blue-800"
+                >দ্বিতীয় বিয়ে করেছেন দাউদ ইব্রাহিম, স্ত্রী পাকিস্তানি</a
+              >
+            </h4>
+          </div>
+        </div>
+
+        <!-- Fifth News Item -->
+        <div class="bg-white shadow-md mt-4">
+          <div class="overflow-hidden">
+            <a href="">
+              <img
+                class="w-full h-auto"
+                src="https://royelnews.com/wp-content/uploads/2022/12/322625132_719526586261443_2986189997021982751_n-600x337.jpg"
+                alt="News Image 5"
+              />
+            </a>
+          </div>
+          <div class="p-4">
+            <h4 class="text-[16px] font-bold mb-2">
+              <a href="" class="text-gray-500 hover:text-blue-800"
+                >রৌমারীতে আই,এফ,আই, সি, ব্যাংক উদ্বোধন</a
+              >
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
