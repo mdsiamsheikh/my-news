@@ -1807,10 +1807,530 @@
         />
       </div>
     </div>
+
+    <!-- ধর্ম  -->
+    <div class="flex gap-8">
+      <!-- step one -->
+      <div class="flex flex-col md:w-[633px]">
+        <!-- Category Title -->
+        <div class="mt-6">
+          <div
+            class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+          >
+            <div
+              class="siam w-1/6 md:w-1/3 px-2 py-2 inline-block bg-[#cc0000] text-white"
+            >
+              <a
+                href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+                class="flex items-center text-white"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 448 512"
+                  class="w-5 h-5 mr-2"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+                  />
+                </svg>
+                ধর্ম
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Article Box -->
+        <div class="flex flex-wrap mt-3 gap-">
+          <div class="w-full sm:w-1/2 md:w-1/2">
+            <div class="mb-6">
+              <div class="relative">
+                <a href="">
+                  <img
+                    src="https://royelnews.com/wp-content/uploads/2023/10/395711786_719079943577963_376892770646993724_n-1-600x337.jpg"
+                    alt="Main Article Image"
+                    class="w-full h-auto"
+                  />
+                </a>
+              </div>
+              <div class="p-4">
+                <h4 class="text-[16px] font-bold mb-2 border-b pb-2">
+                  <a href="" class="text-gray-500 hover:text-blue-800">
+                    উলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা, শারোদীয়
+                    দূর্গা উৎসব সম্পন্ন।
+                  </a>
+                </h4>
+                <div class="mt-2">
+                  ২০ অক্টো উলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা,
+                  শারোদীয় দূর্গা উৎসব
+                  <span class="text-right">
+                    <a href="https://royelnews.com/" class="text-blue-500"
+                      >......বিস্তারিত</a
+                    >
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div class="flex flex-wrap gap-3">
+              <div class="w-full sm:w-[97px]">
+                <div class="mb-6">
+                  <a href="">
+                    <img
+                      class="w-full h-auto"
+                      src="https://royelnews.com/wp-content/uploads/2023/10/inbound8594950081661160676.jpg"
+                      alt="News image"
+                    />
+                  </a>
+                  <div class="p-4">
+                    <h4 class="text-lg font-bold">
+                      <a
+                        href=""
+                        class="text-sm font-medium text-black hover:text-red-600"
+                        >উলিপুরে হিন্দু মহাজোটের বিভিন্ন কর্মসূচি ও সহযোগীতায়
+                        শারদীয় দূর্গা উৎসব পালিত।</a
+                      >
+                    </h4>
+                  </div>
+                </div>
+              </div>
+
+              <div class="w-full sm:w-[97px]">
+                <div class="mb-">
+                  <a href="">
+                    <img
+                      class="w-full h-auto"
+                      src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-639-700x390-1.jpg"
+                      alt="News image"
+                    />
+                  </a>
+                  <div class="p-4">
+                    <h4 class="text-lg font-bold">
+                      <a
+                        href=""
+                        class="text-sm font-medium text-black hover:text-red-600"
+                        >রাশিয়া ছেড়ে পালিয়েছেন সাবেক ওয়াগনার কমান্ডার</a
+                      >
+                    </h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="w-full sm:w-1/2 md:w-1/2">
+            <div class="shadow-md p-4">
+              <div class="flex items-center mt-4 pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-12 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-638-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    ৬ দশকের মধ্যে সবচেয়ে কম জন্মহার চীনে!
+                  </h4>
+                </a>
+              </div>
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-12 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-637-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    দ্বিতীয় বিয়ে করেছেন দাউদ ইব্রাহিম, স্ত্রী পাকিস্তানি’
+                  </h4>
+                </a>
+              </div>
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-12 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/received_1503234363494888-581x337.jpeg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    রৌমারীতে বীর মুক্তিযোদ্ধার মৃত্য রাষ্ট্রীয় মর্জাদায় দাফন
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-12 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2022/12/received_3369899119930546-600x337.jpeg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    থার্টি ফার্স্ট নাইট উদযাপন, ইসলাম কি বলে? |মুফতী সাইফ উদ্দীন
+                    আল-আজাদ|
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-12 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2022/12/received_478339027784806-600x337.jpeg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    নাটোরের ভোক্তা-অধিকারের অভিযানে ২ হাজার কেজি গুড় জব্দ ও ২
+                    লক্ষ টাকা জরিমানা
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-12 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2022/12/received_568067688499501-600x337.jpeg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    শার্শার লাউতাড়ায় তথ্য আপার উঠান বৈঠক
+                  </h4>
+                </a>
+              </div>
+            </div>
+            <div class="bg-gray-100 p-4">
+              <h4
+                class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
+              >
+                <a href="" class="flex items-center space-x-1">
+                  <span>আরো সংবাদ..</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    class="w-3"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                    />
+                  </svg>
+                </a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- step two -->
+      <div class="md:w-[355px] sm:w-12">
+        <div class="mt-6">
+          <div
+            class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+          >
+            <div
+              class="siam w-1/6 md:w-1/2 px-2 py-2 inline-block bg-[#cc0000] text-white"
+            >
+              <a
+                href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+                class="flex items-center text-white"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 448 512"
+                  class="w-5 h-5 mr-2"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+                  />
+                </svg>
+                আর্ন্তজাতিক
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Article Section -->
+        <div class="shadow-lg bg-white rounded-b-lg">
+          <div class="mb-4 mt-3">
+            <a href="">
+              <img
+                src="https://royelnews.com/wp-content/uploads/2023/10/395711786_719079943577963_376892770646993724_n-1-600x337.jpg"
+                alt="Main Article Image"
+                class="w-full h-auto"
+              />
+            </a>
+            <div class="p-4">
+              <h4 class="text-[16px] font-bold mb-2 border-b pb-2">
+                <a href="" class="text-gray-500 hover:text-blue-800">
+                  উলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা, শারোদীয়
+                  দূর্গা উৎসব সম্পন্ন।
+                </a>
+              </h4>
+
+              <!-- Small Images Section -->
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/09/prothomalo-bangla_2021-11_8f79a823-5cec-48db-a67b-ef98317af490_P_1-600x337.webp"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    ফ্রান্সের প্রেসিডেন্ট আসছেন আজ, যা নিয়ে আলোচনা হতে পারে
+                  </h4>
+                </a>
+              </div>
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/5-4-700x390-1.jpeg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    জাপানে দুই সপ্তাহে ৫ হাজার করোনা রোগীর মৃত্যু
+                  </h4>
+                </a>
+              </div>
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-641-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    সেদিন ওশিনকে কাজে যেতে নিষেধ করেছিলেন বাবা
+                  </h4>
+                </a>
+              </div>
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-639-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    রাশিয়া ছেড়ে পালিয়েছেন সাবেক ওয়াগনার কমান্ডার
+                  </h4>
+                </a>
+              </div>
+            </div>
+            <div class="bg-gray-100 p-4">
+              <h4
+                class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
+              >
+                <a href="" class="flex items-center space-x-1">
+                  <span>আরো সংবাদ..</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    class="w-3"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                    />
+                  </svg>
+                </a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- step three -->
+      <div class="md:w-1/3 sm:w-1/3">
+        <!-- Category Title -->
+        <div class="mt-6">
+          <div
+            class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+          >
+            <div
+              class="siam w-1/6 md:w-1/3 px-2 py-2 inline-block bg-[#cc0000] text-white"
+            >
+              <a
+                href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+                class="flex items-center text-white"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 448 512"
+                  class="w-5 h-5 mr-2"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+                  />
+                </svg>
+                ধর্ম
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Article Section -->
+        <div class="shadow-lg bg-white rounded-b-lg">
+          <div class="mb-4 mt-3">
+            <a href="">
+              <img
+                src="https://royelnews.com/wp-content/uploads/2023/10/395711786_719079943577963_376892770646993724_n-1-600x337.jpg"
+                alt="Main Article Image"
+                class="w-full h-auto"
+              />
+            </a>
+            <div class="p-4">
+              <h4 class="text-[16px] font-bold mb-2 border-b pb-2">
+                <a href="" class="text-gray-500 hover:text-blue-800">
+                  উলিপুরে বাংলাদেশ জাতীয় হিন্দু মহাজোটের সহযোগীতা, শারোদীয়
+                  দূর্গা উৎসব সম্পন্ন।
+                </a>
+              </h4>
+
+              <!-- Small Images Section -->
+
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/10/inbound8594950081661160676.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    উলিপুরে হিন্দু মহাজোটের বিভিন্ন কর্মসূচি ও সহযোগীতায় শারদীয়
+                    দূর্গা উৎসব পালিত।
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-639-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    রাশিয়া ছেড়ে পালিয়েছেন সাবেক ওয়াগনার কমান্ডার
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-638-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    ৬ দশকের মধ্যে সবচেয়ে কম জন্মহার চীনে!
+                  </h4>
+                </a>
+              </div>
+              <div class="flex items-center mt-4 border-t pt-4">
+                <a href="" class="flex items-center space-x-2">
+                  <img
+                    class="w-1/3 h-auto"
+                    src="https://royelnews.com/wp-content/uploads/2023/01/3-Copy-637-700x390-1.jpg"
+                    alt=""
+                    decoding="async"
+                  />
+                  <h4 class="text-sm font-medium text-black hover:text-red-600">
+                    দ্বিতীয় বিয়ে করেছেন দাউদ ইব্রাহিম, স্ত্রী পাকিস্তানি’
+                  </h4>
+                </a>
+              </div>
+            </div>
+            <div class="bg-gray-100 p-4">
+              <h4
+                class="text-right text-[14px] text-gray-600 hover:text-green-600 flex justify-end items-center"
+              >
+                <a href="" class="flex items-center space-x-1">
+                  <span>আরো সংবাদ..</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 512 512"
+                    class="w-3"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"
+                    />
+                  </svg>
+                </a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-3">
+      <div class="flex justify-center md:justify-start">
+        <img
+          class="w-full max-w-md object-contain"
+          src="https://royelnews.com/wp-content/uploads/2023/10/biggapon-1.gif"
+          alt="Ad Image"
+        />
+      </div>
+
+      <!-- Second ad -->
+      <div class="flex justify-center md:justify-end">
+        <img
+          class="w-full max-w-md object-contain"
+          src="https://royelnews.com/wp-content/uploads/2023/10/biggapon-1.gif"
+          alt="Ad Image"
+        />
+      </div>
+    </div>
+    <div class="mt-6">
+      <div
+        class="container mx-auto flex justify-between items-center bg-[#EDE9E9]"
+      >
+        <div
+          class="siam w-1/6 md:w-1/7 px-2 py-2 inline-block bg-[#cc0000] text-white"
+        >
+          <a
+            href="https://royelnews.com/category/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/"
+            class="flex items-center text-white"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 448 512"
+              class="w-5 h-5 mr-2"
+              fill="currentColor"
+            >
+              <path
+                d="M0 96C0 78.3 14.3 64 32 64h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"
+              />
+            </svg>
+            আর্ন্তজাতিক
+          </a>
+        </div>
+      </div>
+    </div>
+    <newSlider />
   </div>
 </template>
 
 <script setup>
+import newSlider from "~/components/newSlider.vue";
 import NewsSlider from "~/components/NewsSlider.vue";
 import { ref } from "vue";
 
@@ -1871,16 +2391,4 @@ function nextSlide() {
 .carousel-item {
   transition: all 0.5s ease-in-out;
 }
-
-/* .siam {
-  color: #fff;
-  font-weight: 400;
-  font-size: 18px;
-  text-decoration: none;
-  position: relative;
-  display: inline-block;
-  margin: 0px 0 0 0 !important;
-  background: #cc0000;
-  padding: 8px 20px;
-} */
 </style>
