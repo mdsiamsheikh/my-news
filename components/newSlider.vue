@@ -131,7 +131,6 @@ const newsItems = [
       "https://royelnews.com/wp-content/uploads/2023/01/3-Copy-330-700x390-1-600x337.jpg",
     title: "রাত ৮টায় দোকান বন্ধ নিয়ে পাকিস্তানের মন্ত্রীর অদ্ভুত মন্তব্য",
   },
-  // Add more news items here...
 ];
 
 const scroll = (amount) => {
